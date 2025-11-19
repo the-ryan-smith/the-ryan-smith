@@ -12,7 +12,7 @@ Currently, I’m exploring the intersection of machine learning and business ana
 
 ### 🚀 My Tech Stack:
 - Primary languages:  Python, SQL
-- Libraries & frameworks:  Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow
+- Libraries & frameworks:  Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, PySpark
 - Tools:  VSCode/code-server, JupyterLab, Azure Data Studio, MLflow, Feast
 - Version control:  Git, GitHub, GitLab
 
