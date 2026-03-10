@@ -1,24 +1,23 @@
-# Hi there, I'm Ryan (@the-ryan-smith) 👋  
-💻 Lead Data Scientist & Product Owner | 🎓 PhD in Computational Biological Physics | 🧠 Lifelong Learner  
+# Hey, I'm Ryan (@the-ryan-smith) 
+Lead Data Scientist & Product Owner | PhD in Computational Biological Physics | Lifelong Learner  
 
 I'm a data scientist with experience in predictive modeling, statistical analysis, and data mining, analysis, and visualization.
 Currently, I own the quantitative strategy communication recommendations system at Veterans United Home Loans; exploring the intersection of machine learning and business analytics to drive impactful decisions.
 
-- 🔭 I’m working on: improving prediction models by optimizing feature transformation pipelines.
-- 🌱 I’m learning: time series forecasting, transformation apps, and Feast.
-- ⚡ Fun fact: I'm passionate about exploring new tools and methodologies to optimize workflows.
+- I’m working on: improving prediction models and data-driven communication recommendation systems.
+- I’m learning: context engineering & agentic workflows, product ownership
+- Fun fact: I'm passionate about exploring new tools and methodologies to optimize workflows.
 
 ---
 
-### 🚀 My Tech Stack:
-- Primary languages:  Python, SQL
+### My Tech Stack:
+- Primary languages:  Python, SQL/Snowflake
 - Libraries & frameworks:  Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, PySpark
-- Tools:  Windsurf, VSCode/code-server, Claude, OpenAI API, JupyterLab, Azure Data Studio, MLflow, Feast
-- Version control:  Git, GitHub, GitLab
+- Tools:  Claude, Windsurf, OpenAI API, MLflow, Feast, Postman
 
 ---
 
-### 📫 Connect with Me:
+### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/ryan-smith-phd/)
 - [Email](mailto:ryansmithphd@gmail.com)
 
