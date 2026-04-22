@@ -1,19 +1,25 @@
-# Hey, I'm Ryan (@the-ryan-smith) 
-Lead Data Scientist & Product Owner | PhD in Computational Biological Physics | Lifelong Learner  
+# Hey, I'm Ryan (@the-ryan-smith)
 
-I'm a data scientist with experience in predictive modeling, statistical analysis, and data mining, analysis, and visualization.
-Currently, I own the quantitative strategy communication recommendations system at Veterans United Home Loans; exploring the intersection of machine learning and business analytics to drive impactful decisions.
+Product Data Scientist at Veterans United Home Loans | PhD in Physics | ML, analytics, and production data pipelines
 
-- I’m working on: improving prediction models and data-driven communication recommendation systems.
-- I’m learning: context engineering & agentic workflows, product ownership
-- Fun fact: I'm passionate about exploring new tools and methodologies to optimize workflows.
+I build data products that turn messy, real-world signals into decisions teams can act on.
+My work spans analytics engineering (SQL-first datasets and metrics), modeling (evaluation, debugging, explainability), and applied LLM feature extraction from unstructured communications.
+
+Right now, I own a data-driven borrower communication recommendation system.  I partner with product, operations, engineering, and MLOps to ship measurable improvements.
 
 ---
 
-### My Tech Stack:
-- Primary languages:  Python, SQL/Snowflake
-- Libraries & frameworks:  Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, PySpark
-- Tools:  Claude, Windsurf, OpenAI API, MLflow, Feast, Postman
+## Focus areas
+- Data science: model evaluation (discrimination, calibration, longitudinal performance), debugging, explainability artifacts
+- Analytics engineering: reusable SQL pipelines, permanent analytical tables, metric governance
+- Agentic workflows: build task-scoped context packs, reusable prompt templates, and agent-assisted dev/analysis workflows with practical guardrails (versioning, cost control, governance)
+- Applied LLMs: structured signal extraction (OpenAI API), prompt/version experiments (LangChain, LangSmith)
+
+## Core stack
+- Languages: Python, SQL/Snowflake
+- MLOps/experimentation: PySpark, MLflow
+- BI: Tableau
+- Agentic workflows/LLM tooling: Claude, OpenAI API, LangChain/LangSmith
 
 ---
 
